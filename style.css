@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #040825;
+    text-align: center;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    margin-right: 6px;
+}
+
+.guild-logo {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.member_card {
+    background-color: #4e85e5;
+    transition: transform 400ms;
+    text-align: center;
+    border: none;
+}
+
+.member_card:hover {
+    transform: scale(1.03);
+    opacity: 1;
+}
+
+.fav-movie {
+    display: flex;
+    justify-content: space-between;
+    background-color: #a2e9f5;
+    padding: 10px;
+    width: 100%;
+}
+
+.fav-song {
+    display: flex;
+    justify-content: space-between;
+    background-color: #a2e9f5;
+    padding: 10px;
+    width: 100%;
+}
