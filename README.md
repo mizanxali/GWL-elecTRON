@@ -30,7 +30,8 @@ If you are a member of guild elecTRON and want to rep your card on this webpage,
       </div>
   </div>
 ```
-6. That's it! Stage your changes (`git add .`)
-7. Commit your changes (`git commit -m 'Added my card'`)
-8. Push to the changes to your forked repo (`git push origin master`)
-9. Open a pull request to get your changes merged to this original repo!
+6. Make changes by adding your information wherever mentioned.
+7. That's it! Stage your changes (`git add .`)
+8. Commit your changes (`git commit -m 'Added my card'`)
+9. Push to the changes to your forked repo (`git push origin master`)
+10. Open a pull request to get your changes merged to this original repo!
